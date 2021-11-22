@@ -1,6 +1,6 @@
 {
-  "name": "react-stonecutter",
-  "version": "0.3.10",
+  "name": "React-SpringGrid",
+  "version": "0.3",
   "description": "Animated grid layout component for React",
   "keywords": [
     "react",
@@ -21,11 +21,11 @@
       "pre-push": "npm test"
     }
   },
-  "author": "Dan Train",
+  "author": "HayateKimura",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dantrain/react-stonecutter.git"
+    "url": "https://github.com/phantom0109/React-SpringGrid.git"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
